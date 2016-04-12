@@ -735,8 +735,8 @@ Source: http://www.atmel.com/dyn/resources/prod_documents/doc2593.pdf</descripti
 <smd name="GPIO15" x="8.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="GPIO2" x="6.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="GPIO0" x="4.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
-<smd name="GPIO5" x="2.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
-<smd name="GPIO4" x="0.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="GPIO4" x="2.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="GPIO5" x="0.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="RXD" x="-1.6" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="TXD" x="-3.6" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="REST" x="-3.6" y="-8" dx="2" dy="1" layer="1" rot="R90"/>
@@ -823,8 +823,8 @@ Source: http://www.atmel.com/dyn/resources/prod_documents/doc2593.pdf</descripti
 <smd name="GPIO15" x="8.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="GPIO2" x="6.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="GPIO0" x="4.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
-<smd name="GPIO5" x="2.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
-<smd name="GPIO4" x="0.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="GPIO4" x="2.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
+<smd name="GPIO5" x="0.4" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="RXD" x="-1.6" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="TXD" x="-3.6" y="8" dx="2" dy="1" layer="1" rot="R90"/>
 <smd name="REST" x="-3.6" y="-8" dx="2" dy="1" layer="1" rot="R90"/>
